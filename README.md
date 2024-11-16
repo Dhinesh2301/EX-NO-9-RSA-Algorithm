@@ -132,7 +132,8 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/8b983951-6c14-448e-aba4-2e070445b79f)
+![image](https://github.com/user-attachments/assets/b9b29e6f-5b74-4b24-a53d-1c93c59d3bc5)
+
 
 ## Result:
  The program is executed successfully.
